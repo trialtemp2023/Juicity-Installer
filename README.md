@@ -11,4 +11,4 @@ https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
 ## پلاگین Juicity برای NEKOBOX و Matsuri
 https://github.com/MatsuriDayo/plugins/releases/tag/juicity-test-3
 
-### بعد از نصب پلاگین و اضافه کردن کانفیگ در Nekobox تیک allowInsecure رو باید فعال کنید
+#### بعد از نصب پلاگین و اضافه کردن کانفیگ در Nekobox تیک allowInsecure رو باید فعال کنید
